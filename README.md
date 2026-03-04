@@ -14,7 +14,7 @@ Privacy policy for the Resp Rate Made Easy Apple Watch app
 
 <p>This privacy policy applies to the Resp Rate Made Easy Apple Watch application.</p>
 
-<h2>Medical Disclaimer</h2>
+<h2>Disclaimer</h2>
 <p>This application is intended for informational and educational purposes only.</p>
 <p>The app allows users to manually count breaths and estimate breaths per minute by tapping the screen.</p>
 <p>This app does not provide medical advice and should not be used as a substitute for professional medical judgment, diagnosis, or treatment.</p>
