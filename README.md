@@ -36,6 +36,7 @@ Privacy policy for the Resp Rate Made Easy Apple Watch app
 
 <h2>Contact</h2>
 <p>If you have questions about this policy, please contact the developer through the App Store listing.</p>
+<p>Email: resusmadeeasy@gmail.com</p>
 
 </body>
 </html>
