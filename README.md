@@ -1,49 +1,54 @@
-# respratemadeeasy-privacy
-Privacy policy for the Resp Rate Made Easy Apple Watch app
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Privacy Policy - Resp Rate Made Easy</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 24px;
+      line-height: 1.6;
+      color: #111;
+      background: #fff;
+    }
+    h1, h2 { margin-top: 24px; }
+    p { margin: 12px 0; }
+  </style>
 </head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Last updated: 2026</strong></p>
 
-<body style="font-family: Arial; max-width: 800px; margin: auto; padding: 20px;">
+  <p>This privacy policy applies to the Resp Rate Made Easy Apple Watch application.</p>
 
-Privacy Policy  
-Last updated: 2026  
+  <h2>Disclaimer</h2>
+  <p>This application is intended for informational and educational purposes only.</p>
+  <p>The app allows users to manually count breaths and estimate breaths per minute by tapping the screen, learn ECG (electrocardiogram) rhythm recognition through quizzes, and use educational tools such as scoring systems (for example, GCS).</p>
+  <p>This app does not provide medical advice and should not be used as a substitute for professional medical judgment, diagnosis, or treatment.</p>
+  <p>If you have concerns about your breathing, heart rhythm, neurological status, or overall health, please consult a qualified healthcare professional.</p>
 
-This privacy policy applies to the Resp Rate Made Easy Apple Watch application.
+  <h2>Information Collection</h2>
+  <p>The app does not collect, store, or transmit any personal information.</p>
+  <p>No personal data, health data, ECG recordings, scoring inputs, location information, or identifying information is collected.</p>
+  <p>All functionality, including ECG learning content, quiz progress, and scoring tools, operates locally on your device and does not require an internet connection.</p>
 
-Disclaimer  
-This application is intended for informational and educational purposes only.  
+  <h2>Subscriptions</h2>
+  <p>The app offers optional auto-renewable subscriptions to access premium content, including extended ECG quiz material and additional educational features.</p>
+  <p>Subscriptions are processed securely through Apple. We do not collect or have access to your payment details, billing information, or Apple ID data.</p>
 
-The app allows users to manually count breaths and estimate breaths per minute by tapping the screen, as well as learn ECG (electrocardiogram) rhythm recognition through quizzes and educational content.  
+  <h2>Third-Party Services</h2>
+  <p>This app does not use third-party analytics, tracking, or advertising services.</p>
 
-This app does not provide medical advice and should not be used as a substitute for professional medical judgment, diagnosis, or treatment.  
+  <h2>Data Security</h2>
+  <p>Since the app does not collect or store data, no personal information is stored or transmitted.</p>
 
-If you have concerns about your breathing, heart rhythm, or overall health, please consult a qualified healthcare professional.  
+  <h2>Changes to This Policy</h2>
+  <p>This policy may be updated in the future. Any updates will appear on this page.</p>
 
-Information Collection  
-The app does not collect, store, or transmit any personal information.  
-
-No personal data, health data, ECG recordings, location information, or identifying information is collected.  
-
-All functionality, including ECG learning content and quiz progress, operates locally on your device and does not require an internet connection.  
-
-Subscriptions  
-The app offers optional auto-renewable subscriptions to access premium ECG quiz content.  
-
-Subscriptions are processed securely through Apple. We do not collect or have access to your payment details, billing information, or Apple ID data.  
-
-Third-Party Services  
-This app does not use third-party analytics, tracking, or advertising services.  
-
-Data Security  
-Since the app does not collect or store data, no personal information is stored or transmitted.  
-
-Changes to This Policy  
-This policy may be updated in the future. Any updates will appear on this page.  
-
-Contact  
-If you have questions about this policy, please contact:  
-
-Email: resusmadeeasy@gmail.com
+  <h2>Contact</h2>
+  <p>Email: resusmadeeasy@gmail.com</p>
+</body>
+</html>
